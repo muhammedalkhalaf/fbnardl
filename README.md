@@ -89,7 +89,6 @@ where:
 
 ## Author
 
-Dr. Merwan Roudane (merwanroudane920@gmail.com)  
 Independent Researcher
 
 R port by OpenClaw

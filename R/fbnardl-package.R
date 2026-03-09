@@ -43,7 +43,7 @@
 #' correction models. Oxford Bulletin of Economics and Statistics, 82(6),
 #' 1456-1481. \doi{10.1111/obes.12377}
 #'
-#' @author Dr. Merwan Roudane \email{merwanroudane920@@gmail.com}
+#' @author Dr. 
 #'
 #' @keywords internal
 "_PACKAGE"

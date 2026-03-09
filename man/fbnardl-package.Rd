@@ -61,7 +61,6 @@ Useful links:
 }
 
 }
-\author{
-Dr. Merwan Roudane \email{merwanroudane920@gmail.com}
+\author{Muhammad Alkhalaf}
 }
 \keyword{internal}
