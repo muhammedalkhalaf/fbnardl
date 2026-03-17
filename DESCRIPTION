@@ -1,0 +1,29 @@
+Package: fbnardl
+Type: Package
+Title: Fourier Bootstrap Nonlinear ARDL Estimation
+Version: 1.0.0
+Authors@R: person("Muhammad", "Alkhalaf", email = "muhammedalkhalaf@gmail.com",
+    role = c("aut", "cre", "cph"),
+    comment = c(ORCID = "0009-0002-2677-9246"))
+Description: Provides two estimators for asymmetric nonlinear ARDL models with
+    flexible Fourier terms: the Fourier NARDL (FNARDL) with Kripfganz and
+    Schneider (2020) <doi:10.1111/obes.12376> critical values, and the Fourier
+    Bootstrap NARDL (FBNARDL) with bootstrap cointegration tests following
+    Bertelli, Vacca and Zoia (2022) <doi:10.1007/s10260-021-00571-7>.
+    The nonlinear ARDL framework decomposes regressors into positive and
+    negative partial sums (Shin, Yu and Greenwood-Nimmo, 2014)
+    <doi:10.1007/978-1-4899-8008-3_9>. Lag and Fourier frequency selection
+    uses information criteria following Yilanci, Bozoklu and Gorus (2020)
+    <doi:10.1177/0193841X18823479>.
+Author: Muhammad Alkhalaf [aut, cre, cph]
+    (<https://orcid.org/0009-0002-2677-9246>)
+Maintainer: Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+Imports: stats
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://github.com/muhammedalkhalaf/fbnardl
+BugReports: https://github.com/muhammedalkhalaf/fbnardl/issues
