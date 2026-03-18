@@ -1,7 +1,7 @@
 Package: fbnardl
 Type: Package
 Title: Fourier Bootstrap Nonlinear ARDL Estimation
-Version: 1.0.0
+Version: 1.0.3
 Authors@R: person("Muhammad", "Alkhalaf", email = "muhammedalkhalaf@gmail.com",
     role = c("aut", "cre", "cph"),
     comment = c(ORCID = "0009-0002-2677-9246"))
@@ -27,3 +27,4 @@ Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 URL: https://github.com/muhammedalkhalaf/fbnardl
 BugReports: https://github.com/muhammedalkhalaf/fbnardl/issues
+
