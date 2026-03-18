@@ -16,4 +16,7 @@ print_multipliers(multipliers, decomposed_vars, control_vars)
 \description{
 Print Multipliers Table
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

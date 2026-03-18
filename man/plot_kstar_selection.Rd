@@ -14,4 +14,7 @@ plot_kstar_selection(ssr_by_k, kstar)
 \description{
 Plot Fourier Frequency Selection (SSR vs k*)
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

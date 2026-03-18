@@ -17,3 +17,6 @@
 \description{
 Plot method for fbnardl objects
 }
+\value{
+No return value, called for side effects (generates diagnostic plots).
+}

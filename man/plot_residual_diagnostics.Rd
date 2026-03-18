@@ -12,4 +12,7 @@ plot_residual_diagnostics(x)
 \description{
 Plot Residual Diagnostics
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

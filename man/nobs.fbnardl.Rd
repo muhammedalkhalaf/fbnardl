@@ -14,3 +14,6 @@
 \description{
 Extract number of observations from fbnardl object
 }
+\value{
+An integer giving the number of observations used in the model fit.
+}

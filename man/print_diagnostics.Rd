@@ -12,4 +12,7 @@ print_diagnostics(diag)
 \description{
 Print Diagnostic Tests
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

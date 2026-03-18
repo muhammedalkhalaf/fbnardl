@@ -14,3 +14,6 @@
 \description{
 Extract coefficients from fbnardl object
 }
+\value{
+A named numeric vector of model coefficients.
+}

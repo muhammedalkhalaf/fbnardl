@@ -14,4 +14,7 @@ print_bounds_test(test, type)
 \description{
 Print Bounds Test Results
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

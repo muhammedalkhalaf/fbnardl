@@ -37,4 +37,7 @@ head(oil_inflation)
 summary(oil_inflation)
 
 }
+\value{
+A data frame with columns for oil prices and inflation rates.
+}
 \keyword{datasets}

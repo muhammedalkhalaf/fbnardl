@@ -12,4 +12,7 @@ print_coef_table(coef_summary)
 \description{
 Print Coefficient Table with Significance Stars
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

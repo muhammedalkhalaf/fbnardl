@@ -14,4 +14,7 @@ plot_dynamic_multipliers(dyn_mult, decomposed_vars)
 \description{
 Plot Dynamic Multipliers
 }
+\value{
+No return value, called for side effects.
+}
 \keyword{internal}

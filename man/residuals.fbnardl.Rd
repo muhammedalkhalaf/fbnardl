@@ -14,3 +14,6 @@
 \description{
 Extract residuals from fbnardl object
 }
+\value{
+A numeric vector of residuals from the model.
+}

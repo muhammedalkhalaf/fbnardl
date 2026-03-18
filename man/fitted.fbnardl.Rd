@@ -14,3 +14,6 @@
 \description{
 Extract fitted values from fbnardl object
 }
+\value{
+A numeric vector of fitted values from the model.
+}

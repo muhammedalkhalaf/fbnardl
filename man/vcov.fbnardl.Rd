@@ -14,3 +14,6 @@
 \description{
 Extract variance-covariance matrix from fbnardl object
 }
+\value{
+A variance-covariance matrix of the model coefficients.
+}
