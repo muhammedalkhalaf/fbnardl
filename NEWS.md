@@ -1,6 +1,6 @@
 # fbnardl 1.0.0
 
-* Initial CRAN release
+* Initial release
 * Main function: `fbnardl()` for Fourier Bootstrap Nonlinear ARDL estimation
 * Features:
   - Asymmetric effects via positive/negative partial sum decomposition

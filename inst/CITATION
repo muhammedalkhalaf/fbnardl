@@ -9,6 +9,5 @@ bibentry(
                comment = c(ORCID = "0009-0002-2677-9246")),
   year     = "2026",
   note     = "R package version 1.0.2",
-  url      = "https://CRAN.R-project.org/package=fbnardl",
-  doi      = "10.32614/CRAN.package.fbnardl"
+  url      = "https://github.com/muhammedalkhalaf/fbnardl"
 )
