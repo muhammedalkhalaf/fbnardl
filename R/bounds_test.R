@@ -181,7 +181,7 @@ compute_joint_f_test <- function(model, vars) {
 
 #' Get PSS Critical Values
 #'
-#' Approximate critical values from Pesaran, Shin & Smith (2001) Table CI(iii)
+#' Approximate critical values from Pesaran, Shin and Smith (2001) Table CI(iii)
 #' Case III: unrestricted intercept, no trend
 #'
 #' @param k Number of long-run forcing variables
@@ -221,8 +221,8 @@ get_pss_critical_values <- function(k) {
 
 #' Bootstrap Cointegration Test
 #'
-#' Implements the bootstrap procedure of Bertelli, Vacca & Zoia (2022)
-#' and McNown, Sam & Goh (2018)
+#' Implements the bootstrap procedure of Bertelli, Vacca and Zoia (2022)
+#' and McNown, Sam and Goh (2018)
 #'
 #' @param model Estimated lm object
 #' @param data Data frame

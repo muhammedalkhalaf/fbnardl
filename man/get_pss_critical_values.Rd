@@ -13,7 +13,7 @@ get_pss_critical_values(k)
 Data frame with I(0) and I(1) bounds at 10%, 5%, 1% levels
 }
 \description{
-Approximate critical values from Pesaran, Shin & Smith (2001) Table CI(iii)
+Approximate critical values from Pesaran, Shin and Smith (2001) Table CI(iii)
 Case III: unrestricted intercept, no trend
 }
 \keyword{internal}

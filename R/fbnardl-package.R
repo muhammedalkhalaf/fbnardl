@@ -3,7 +3,7 @@
 #' @description
 #' Implements the Fourier Bootstrap Nonlinear Autoregressive Distributed Lag
 #' (FBNARDL) model for analyzing asymmetric cointegration relationships.
-#' Combines the NARDL framework of Shin, Yu & Greenwood-Nimmo (2014) with
+#' Combines the NARDL framework of Shin, Yu and Greenwood-Nimmo (2014) with
 #' Fourier approximation for smooth structural breaks and optional bootstrap
 #' inference.
 #'
@@ -24,21 +24,21 @@
 #' }
 #'
 #' @section References:
-#' Shin, Y., Yu, B., & Greenwood-Nimmo, M. (2014). Modelling asymmetric
+#' Shin, Y., Yu, B. and Greenwood-Nimmo, M. (2014). Modelling asymmetric
 #' cointegration and dynamic multipliers in a nonlinear ARDL framework.
 #' In Festschrift in Honor of Peter Schmidt (pp. 281-314). Springer.
 #' \doi{10.1007/978-1-4899-8008-3_9}
 #'
-#' Pesaran, M. H., Shin, Y., & Smith, R. J. (2001). Bounds testing approaches
+#' Pesaran, M. H., Shin, Y. and Smith, R. J. (2001). Bounds testing approaches
 #' to the analysis of level relationships. Journal of Applied Econometrics,
 #' 16(3), 289-326. \doi{10.1002/jae.616}
 #'
-#' Yilanci, V., Bozoklu, S., & Gorus, M. S. (2020). Are BRICS countries
+#' Yilanci, V., Bozoklu, S. and Gorus, M. S. (2020). Are BRICS countries
 #' pollution havens? Evidence from a bootstrap ARDL bounds testing approach
 #' with a Fourier function. Sustainable Cities and Society, 55, 102035.
 #' \doi{10.1016/j.scs.2020.102035}
 #'
-#' Kripfganz, S., & Schneider, D. C. (2020). Response surface regressions
+#' Kripfganz, S. and Schneider, D. C. (2020). Response surface regressions
 #' for critical value bounds and approximate p-values in equilibrium
 #' correction models. Oxford Bulletin of Economics and Statistics, 82(6),
 #' 1456-1481. \doi{10.1111/obes.12377}

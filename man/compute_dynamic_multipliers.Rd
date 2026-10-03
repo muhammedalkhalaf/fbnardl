@@ -21,7 +21,7 @@ compute_dynamic_multipliers(model, depvar, decompose, p, horizon)
 List with dynamic multiplier paths
 }
 \description{
-Following Shin, Yu & Greenwood-Nimmo (2014), compute cumulative
+Following Shin, Yu and Greenwood-Nimmo (2014), compute cumulative
 dynamic multipliers for positive and negative shocks
 }
 \keyword{internal}

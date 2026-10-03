@@ -264,7 +264,7 @@ reset_test <- function(model, power = 2:3) {
 
 #' Compute Dynamic Multipliers
 #'
-#' Following Shin, Yu & Greenwood-Nimmo (2014), compute cumulative
+#' Following Shin, Yu and Greenwood-Nimmo (2014), compute cumulative
 #' dynamic multipliers for positive and negative shocks
 #'
 #' @param model Estimated lm object

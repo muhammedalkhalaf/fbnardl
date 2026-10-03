@@ -50,7 +50,7 @@ bootstrap_cointegration_test(
 List with bootstrap critical values and p-values
 }
 \description{
-Implements the bootstrap procedure of Bertelli, Vacca & Zoia (2022)
-and McNown, Sam & Goh (2018)
+Implements the bootstrap procedure of Bertelli, Vacca and Zoia (2022)
+and McNown, Sam and Goh (2018)
 }
 \keyword{internal}
